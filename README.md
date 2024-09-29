@@ -73,37 +73,25 @@ dt.predict([[5,6]])
 ## Output:
 
 ## Head
-
-![image](output1.jpg)
+![image](https://github.com/user-attachments/assets/86f37aa9-8270-4a9b-a547-59be079e0445)
 
 ## info
-
-![image](output2.jpg)
-
+![image](https://github.com/user-attachments/assets/81fb3723-feb0-4fd7-a3fa-7bda8ffdec1d)
 
 ## data.isnull().sum()
-
-![image](output3.jpg)
-
+![image](https://github.com/user-attachments/assets/34b5f110-b02a-4f64-82e2-42bea27c0255)
 
 ## salary head
-
-![image](output4.jpg)
+![image](https://github.com/user-attachments/assets/a1d2bd62-6965-447e-ba94-d560398a7009)
 
 ## MSE value
-
-![image](output5.jpg)
-
+![image](https://github.com/user-attachments/assets/551ad3f6-22a1-4f92-8090-7a2f2a594d09)
 
 ## r2 value
-
-![image](output6.jpg)
-
+![image](https://github.com/user-attachments/assets/564e5e36-ad0e-4793-9fdf-95a9c10b60d4)
 
 ## data prediction
-
-![image](output7.jpg)
-
+![image](https://github.com/user-attachments/assets/0c15ab5b-9e61-4a61-a301-c620efcfa9ce)
 
 
 ## Result:
